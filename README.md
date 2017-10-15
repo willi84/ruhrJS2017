@@ -32,6 +32,7 @@ Rachel Andrew (@rachelandrew)	<br />
 
 **An adequate intro to ClojureScript**<br />
 Lisa Passing<br />
+[Slides](https://lislis.de/talks/adequate-cljs)
 
 
 **Alpha 2048 - Reinforcement Learning in the Browser**<br />
