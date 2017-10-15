@@ -24,43 +24,43 @@ Michaela Lehr (@fischaelameer)<br />
 
 **Immutable data structures for functional JS**<br />
 Anjana Vakil (@anjanavakil)	<br />
-[Slides]()
+[Slides](https://speakerdeck.com/vakila/immutable-data-structures-for-functional-javascript)
 
 **Start Using CSS Grid Layout Today**<br />
-Rachel Andrew	<br />
-[Slides]()
+Rachel Andrew (@rachelandrew)	<br />
+[Slides](https://rachelandrew.co.uk/speaking/event/ruhrjs-2017?utm_content=buffer77b40&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 **An adequate intro to ClojureScript**<br />
 Lisa Passing<br />
-[Slides]()
+
 
 **Alpha 2048 - Reinforcement Learning in the Browser**<br />
-Lian Li	<br />
-[Slides]()
+Lian Li	(@chimney42)<br />
+[Slides](https://chimney42.github.io/#/)
 
 ### Day 2
 
 
 **What is Community Engineering?**<br />
-Kim Crayton	<br />
-[Slides]()
+Kim Crayton (@KimCrayton1)	<br />
+
 
 **Mobile (web) apps using Ionic**<br />
-Aaron Czichon	<br />
+Aaron Czichon	(@inoverse)<br />
 [Slides]()
 
 **Life of a pixel: A visual explanation of rendering performance**<br />
 Martin Splitt	<br />
-[Slides]()
+
 
 **Death by a thousand paper cuts — User Experience and complexity**<br />
 Alexandra Leisse	<br />
-[Slides]()
+
 
 **Calendar / Kalender / تقويم (aka, the fun of locali[zs]ation)**<br />
 Paul Verbeek-Mast	<br />
-[Slides]()
+
 
 **Sharing is Caring… At Scale!**<br />
 Sarah Saltrick Meyer	<br />
-[Slides]()
+
