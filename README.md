@@ -18,8 +18,8 @@ talks from ruhrJS
 | Talk       | Speaker           | ressources  |
 | ------------- |-------------| -----|
 | **What is Community Engineering?** | Kim Crayton (@KimCrayton1) | [Slides](https://t.co/YhVyhkHvII) |
-| **Mobile (web) apps using Ionic** | Aaron Czichon	(@inoverse) | <todo> | 
+| **Mobile (web) apps using Ionic** | Aaron Czichon	(@inoverse) | [Slides](https://docs.google.com/presentation/d/1c3mIrCvtab3iaAYEeXM9IJUaB8WUWY4B2sX4IL3t95A/edit?usp=sharing) | 
 | **Life of a pixel: A visual explanation of rendering performance** | Martin Splitt	(@g33konaut) | <todo> |
 | **Death by a thousand paper cuts — User Experience and complexity** | Alexandra Leisse	(@troubalex) | [Slides](http://slides.com/alexandraleisse/deck/fullscreen#/) |
 | **Calendar / Kalender / تقويم (aka, the fun of locali[zs]ation)** | Paul Verbeek-Mast	(@paul_v_m) | <todo> |
-| **Sharing is Caring… At Scale!** |  Sarah Saltrick Meyer	(@meyerini) | <todo> |
+| **Sharing is Caring… At Scale!** |  Sarah Saltrick Meyer	(@meyerini) | [Slides](https://github.com/sarahmeyer/sharing-is-caring) |
