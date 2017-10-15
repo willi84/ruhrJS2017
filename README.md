@@ -5,7 +5,6 @@ talks from ruhrJS
 | Talk       | Speaker           | ressources  |
 | ------------- |-------------| -----|
 | **Web Components: It's all rainbows and unicorns! Is it?** | Sara Harkousse (@sara_harkousse) | [Slides](http://slides.com/sara_harkousse/web-components-talk-ruhrjs-2017#/) |
-| **Web Components: It's all rainbows and unicorns! Is it?** | Sara Harkousse (@sara_harkousse) | [Slides](http://slides.com/sara_harkousse/web-components-talk-ruhrjs-2017#/) |
 | **Animate the Web with Ember.js** | Jessica Jordan (@jjordan_dev)	| [Slides](https://jessica-jordan.github.io/animate-the-web-with-emberjs/) |
 | **Redundant ops - about reinventing the wheel** | Szabolcs Szabolcsi-Toth	(@_Nec) | [Slides](https://www.slideshare.net/SzabolcsTth2/redundant-devops) |
 | **Watch your back, Browser! You're being observed** | Stefan Judis (@Stefan Judis) | [Slides](https://speakerdeck.com/stefanjudis/watch-your-back-browser-youre-being-observed) | 
