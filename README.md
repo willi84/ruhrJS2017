@@ -47,20 +47,21 @@ Kim Crayton (@KimCrayton1)	<br />
 
 **Mobile (web) apps using Ionic**<br />
 Aaron Czichon	(@inoverse)<br />
-[Slides]()
+
 
 **Life of a pixel: A visual explanation of rendering performance**<br />
-Martin Splitt	<br />
+Martin Splitt	(@g33konaut)<br />
 
 
 **Death by a thousand paper cuts — User Experience and complexity**<br />
-Alexandra Leisse	<br />
+Alexandra Leisse	(@troubalex)<br />
+[Slides](http://slides.com/alexandraleisse/deck/fullscreen#/)
 
 
 **Calendar / Kalender / تقويم (aka, the fun of locali[zs]ation)**<br />
-Paul Verbeek-Mast	<br />
+Paul Verbeek-Mast	(@paul_v_m)<br />
 
 
 **Sharing is Caring… At Scale!**<br />
-Sarah Saltrick Meyer	<br />
+Sarah Saltrick Meyer	(@meyerini)<br />
 
