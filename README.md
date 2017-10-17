@@ -2,7 +2,7 @@
 talks from ruhrJS
 
 
-| Talk       | Speaker           | ressources  | videos |
+| talk       | speaker           | ressources  | videos |
 | ------------- |-------------| -----| ---- |
 | **Web Components: It's all rainbows and unicorns! Is it?** | Sara Harkousse (@sara_harkousse) | [Slides](http://slides.com/sara_harkousse/web-components-talk-ruhrjs-2017#/) | [Videos](https://www.youtube.com/watch?v=ic4e50BK_ik) |
 | **Animate the Web with Ember.js** | Jessica Jordan (@jjordan_dev)	| [Slides](https://jessica-jordan.github.io/animate-the-web-with-emberjs/) | [Videos](https://www.youtube.com/watch?v=jaJ5cCCYrcU) |
@@ -12,8 +12,7 @@ talks from ruhrJS
 | **Immutable data structures for functional JS** | Anjana Vakil (@anjanavakil) | [Slides](https://speakerdeck.com/vakila/immutable-data-structures-for-functional-javascript) | [Videos](https://www.youtube.com/watch?v=n5REbbvRYqQ) |
 | **Start Using CSS Grid Layout Today** | Rachel Andrew (@rachelandrew)	| [Slides](https://rachelandrew.co.uk/speaking/event/ruhrjs-2017) | [Videos](https://www.youtube.com/watch?v=9fYp9cSBM5M) |
 | **An adequate intro to ClojureScript** | Lisa Passing | [Slides](https://lislis.de/talks/adequate-cljs) | [Videos](https://www.youtube.com/watch?v=bl7BaLcjg0A) |
-| **Alpha 2048 - Reinforcement Learning in the Browser** | Lian Li	(@chimney42) | [Slides](https://chimney42.github.io/#/) |
-[Videos](https://www.youtube.com/watch?v=knS9Vev3Hqc) |
+| **Alpha 2048 - Reinforcement Learning in the Browser** | Lian Li	(@chimney42) | [Slides](https://chimney42.github.io/#/) | [Videos](https://www.youtube.com/watch?v=knS9Vev3Hqc) |
 
 ### Day 2
 | Talk       | Speaker           | ressources  |
